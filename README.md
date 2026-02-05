@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on exciting web development projects and open-source contributions.
 - 📫 How to reach me
 - -Email: riyaagrahari073@gmail.com
-- -LinkedIn: [Riya Agrahari](https://www.linkedin.com/in/riya-agrahari/)
+- -LinkedIn: https://www.linkedin.com/in/riya-agrahari-1bb383279
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I LOVE PAINTING IN MY FREE TIME
 
