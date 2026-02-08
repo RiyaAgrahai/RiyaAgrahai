@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RiyaAgrahai
+- 👋 Hi, I’m @RiyaAgrahari
 - 👀 I’m interested in web development, open-source projects, and AI.
 - 🌱 I’m currently learning Data structure and algorithm and Python for data science.
 - 💞️ I’m looking to collaborate on exciting web development projects and open-source contributions.
