@@ -1,14 +1,58 @@
-- 👋 Hi, I’m @RiyaAgrahari
-- 👀 I’m interested in web development, open-source projects, and AI.
-- 🌱 I’m currently learning Data structure and algorithm and Python for data science.
-- 💞️ I’m looking to collaborate on exciting web development projects and open-source contributions.
-- 📫 How to reach me
-- -Email: riyaagrahari073@gmail.com
-- -LinkedIn: https://www.linkedin.com/in/riya-agrahari-1bb383279
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I LOVE PAINTING IN MY FREE TIME
+👋 Hi, I'm Riya Agrahari
 
-<!---
-RiyaAgrahai/RiyaAgrahai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech Computer Science & Engineering (Data Science)
+💻 Passionate about Data Science, AI, Web Development & Open Source
+
+---
+
+👩‍💻 About Me
+
+- 🌱 Currently learning Python for Data Science, DSA, Machine Learning & Data Analytics
+- 🤖 Interested in Artificial Intelligence, Machine Learning & Data Science
+- 🌐 Exploring Web Development and building practical projects
+- 🔓 Interested in Open Source and contributing to meaningful projects
+- 💡 I enjoy turning ideas into real-world projects and continuously improving my technical skills
+- 🤝 Open to collaborating on Web Development, Data Science, AI & Open Source projects
+
+---
+
+🛠️ Tech Stack
+
+Languages:
+"Python" "C" "JavaScript" "HTML" "CSS"
+
+Data Science & AI:
+"NumPy" "Pandas" "Machine Learning" "Data Analysis"
+
+Web Development:
+"Flask" "HTML" "CSS" "JavaScript"
+
+Databases & Tools:
+"MySQL" "MongoDB" "Git" "GitHub" "VS Code"
+
+---
+
+🚀 What I'm Currently Working On
+
+- 📊 Strengthening my Data Science & Python skills
+- 🧠 Practicing Data Structures & Algorithms
+- 🤖 Exploring Machine Learning & AI
+- 🔓 Contributing to Open Source projects
+- 💻 Building projects to gain hands-on experience
+
+---
+
+🤝 Let's Connect
+
+📧 Email: riyaagrahari073@gmail.com
+💼 LinkedIn: "Riya Agrahari" (https://www.linkedin.com/in/riya-agrahari-1bb383279)
+
+---
+
+🎨 Fun Fact
+
+⚡ When I'm not coding, I love painting in my free time! 🎨
+
+---
+
+⭐ Always learning. Always building. Always improving.
